@@ -1,0 +1,113 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background: url('gym.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+/*
+.left{
+    color: green;
+    border: 2px rebeccapurple;
+}
+
+.mid{
+    color: aliceblue;
+    border: 2px rgb(43, 226, 125);
+
+}
+
+.right{
+    color: aliceblue;
+    border: 2px green;
+}
+
+
+.navbar{
+    display: inline-block;
+    background-color: aqua;
+}
+.navbar li{
+    display: inline-block;
+    background-color: aqua;
+}
+.navbar li a{
+    color: aqua;
+    text-decoration: none;
+    padding: 34px 23px;
+}
+.navbar li a :hover{
+    color: aliceblue;
+    text-decoration: none;
+    padding: 34px 23px;
+    
+}
+
+ul{
+    display: flex;
+   float: right;
+   
+    
+} 
+ul li{
+    display: flex;
+    
+    padding: 10px;
+    
+}
+
+ul li a{
+    display: flex;
+   
+}
+
+ul li a :hover{
+    text-decoration: underline;
+    background-color: yellow;
+    color: #000;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+.btn{
+   margin: 0px 9px;
+   background-color: black;
+   color: aliceblue;
+   padding: 4px 14px;
+   border: 2px solid grey;
+   border-radius: 10px;
+
+}
+*/
+nav{
+    display: flex;
+    justify-content:space-between;
+}
+ul{
+    display:flex;
+    background-color: pink;
+    height: 10px;
+    
+}
+li{
+    text-decoration: none;
+    list-style: none;
+    margin-right: 20px;
+    background-color: white;
+    height: 20px;
+    
+}
+ul li a{
+    text-decoration: none;
+    background-color: grey;
+    height: 20px;
+    color: black;
+    font-weight: 60px;
+}
+ul li a:hover{
+ background-color: black;
+}
